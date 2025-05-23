@@ -9,12 +9,12 @@ import Image from '../Pages/Image'
 function Landing() {
   return (
     <div>
-      {/* <Header/>
+      <Header/>
       <Image/>
-      <Ontdek/> */}
+      <Ontdek/>
       <Concapps/>
-      {/* <Contact/>
-      <Footer/> */}
+      <Contact/> 
+      <Footer/> 
     </div>
   )
 }
