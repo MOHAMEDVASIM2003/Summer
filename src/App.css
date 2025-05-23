@@ -1,0 +1,68 @@
+.overall{
+border: none;
+}
+.total{
+    /* border: 2px solid; */
+}
+.row1{
+   display: flex;
+   flex-direction: row;
+   /* border: 2px solid; */
+   gap: 5px;
+   
+}
+.row2{
+   display: flex;
+   flex-direction: row;
+   /* border: 2px solid; */
+   gap: 2px;
+}
+.total .img1{
+     position: relative;
+   bottom: 50px;
+margin-left: 250px; 
+height: 595px;
+width: 500px;
+}
+.total .img6{
+   position: relative;
+   bottom: 340px;
+margin-left: 31px;
+height: 575px;
+width: 550px;
+
+}
+.total .img2{
+    position: relative;
+   bottom: 10px;
+   margin-left: 15px;
+}
+.total .img3{
+    position: relative;
+   bottom: 10px;
+   margin-left: 10px;
+}
+.total .img4{
+    position: relative;
+   bottom: 30px;
+   margin-left: 250px;
+   gap: 2px;
+   height: 263px;
+   width: 268;
+}
+.total .img5{
+    /* position: relative;
+   bottom: -15px;
+   margin-left: 10px; */
+   position: relative;
+   margin-right: -20px;
+   bottom: 30px;
+   margin-left: -20px;
+   height: 263px;
+   width: 268;
+   gap: 10px;
+   left: 10px;
+}
+.img4{
+    margin-left: -10px;
+}
