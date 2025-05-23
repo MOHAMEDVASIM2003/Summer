@@ -1,6 +1,6 @@
-.overall{
+/* .overall{
 border: none;
-}
+} */
 .total{
     /* border: 2px solid; */
 }
@@ -48,7 +48,7 @@ width: 550px;
    margin-left: 250px;
    gap: 2px;
    height: 263px;
-   width: 268;
+   width: 268px;
 }
 .total .img5{
     /* position: relative;
@@ -59,7 +59,7 @@ width: 550px;
    bottom: 30px;
    margin-left: -20px;
    height: 263px;
-   width: 268;
+   width: 268px;
    gap: 10px;
    left: 10px;
 }
